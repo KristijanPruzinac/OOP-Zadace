@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "konzolna aplikacija/1.0.0": {
+        "runtime": {
+          "konzolna aplikacija.dll": {}
+        }
+      },
+      "class library/1.0.0": {
+        "runtime": {
+          "class library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "konzolna aplikacija/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "class library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

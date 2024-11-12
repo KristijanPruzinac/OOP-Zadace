@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class library", "class library\class library.csproj", "{C44415A3-6137-468A-9B68-4EABECC97A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konzolna aplikacija", "konzolna aplikacija\konzolna aplikacija.csproj", "{57C35200-CC72-4B04-8D5F-8B3D9265025C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44415A3-6137-468A-9B68-4EABECC97A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44415A3-6137-468A-9B68-4EABECC97A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44415A3-6137-468A-9B68-4EABECC97A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44415A3-6137-468A-9B68-4EABECC97A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C35200-CC72-4B04-8D5F-8B3D9265025C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C35200-CC72-4B04-8D5F-8B3D9265025C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C35200-CC72-4B04-8D5F-8B3D9265025C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C35200-CC72-4B04-8D5F-8B3D9265025C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46588BA6-42BC-41A6-9160-6F746952E310}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\obj\Debug\net7.0\class library.csproj.AssemblyReference.cache
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\obj\Debug\net7.0\class library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\obj\Debug\net7.0\class library.AssemblyInfoInputs.cache
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\obj\Debug\net7.0\class library.AssemblyInfo.cs
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\obj\Debug\net7.0\class library.csproj.CoreCompileInputs.cache
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\bin\Debug\net7.0\class library.exe
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\bin\Debug\net7.0\class library.deps.json
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\bin\Debug\net7.0\class library.runtimeconfig.json
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\bin\Debug\net7.0\class library.dll
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\bin\Debug\net7.0\class library.pdb
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\obj\Debug\net7.0\class library.dll
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\obj\Debug\net7.0\refint\class library.dll
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\obj\Debug\net7.0\class library.pdb
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\obj\Debug\net7.0\class library.genruntimeconfig.cache
+C:\Users\kikom\Documents\GitHub\OOP-Zadace\DZ1\class library\obj\Debug\net7.0\ref\class library.dll

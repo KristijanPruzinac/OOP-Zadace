@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "class library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/class library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/class library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "class library/1.0.0": {
+      "type": "project",
+      "path": "../class library/class library.csproj",
+      "msbuildProject": "../class library/class library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "class library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kikom\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kikom\\Documents\\GitHub\\OOP-Zadace\\DZ1\\konzolna aplikacija\\konzolna aplikacija.csproj",
+      "projectName": "konzolna aplikacija",
+      "projectPath": "C:\\Users\\kikom\\Documents\\GitHub\\OOP-Zadace\\DZ1\\konzolna aplikacija\\konzolna aplikacija.csproj",
+      "packagesPath": "C:\\Users\\kikom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kikom\\Documents\\GitHub\\OOP-Zadace\\DZ1\\konzolna aplikacija\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kikom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\kikom\\Documents\\GitHub\\OOP-Zadace\\DZ1\\class library\\class library.csproj": {
+              "projectPath": "C:\\Users\\kikom\\Documents\\GitHub\\OOP-Zadace\\DZ1\\class library\\class library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
